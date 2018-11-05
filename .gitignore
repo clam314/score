@@ -1,0 +1,11 @@
+*.xlsx
+/__pycache__
+*.docx
+*.ini
+*.html
+/.vscode
+/build
+/dist
+*.spec
+
+
